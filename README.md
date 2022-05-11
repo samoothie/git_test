@@ -1,2 +1,4 @@
 # git_test
-beans
+First Odin Attempt
+Hello Odin!
+
